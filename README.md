@@ -13,9 +13,9 @@ A Finnish media student, programmer and a space nerd
 ![Fortinet NSE 2](https://img.shields.io/badge/Fortinet-NSE%202-red)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sorsax&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sorsax&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorsax&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sorsax&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![](https://nirzak-streak-stats.vercel.app/?user=Sorsax&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorsax&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sorsax&limit=5&theme=transparent&combine_all_yearly_contributions=true)
