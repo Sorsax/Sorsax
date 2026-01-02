@@ -18,7 +18,7 @@ A Finnish media student, programmer and a space nerd
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorsax&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sorsax&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sorsax&limit=5&combine_all_yearly_contributions=true&bg_color=00000000&title_color=ffffff&text_color=ffffff)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sorsax&icon=0&color=0)](https://visitcount.itsvg.in)
