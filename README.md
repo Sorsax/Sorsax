@@ -1,4 +1,4 @@
-## HI, I'm Sorsax
+## Hi, I'm Sorsax
 A Finnish media student, programmer and a space nerd
 
 ## 🌐 Socials:
