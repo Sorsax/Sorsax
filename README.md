@@ -1,3 +1,1 @@
-### <br/>and from the voltex void,<br/>
-### <br/>a person who could bring rise to a new light was born,<br/>
-### <br/>cries of thunder and leads a lot of people<br/>
+###### and from the voltex void, a person who could bring rise to a new light was born, cries of thunder and leads a lot of people
