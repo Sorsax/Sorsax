@@ -1,3 +1,4 @@
-> and from the voltex void,<br>
-> a person who could bring rise to a new light was born,<br>
-> cries of thunder and leads a lot of people
+No one can disturb me. If you stand in my way, there's no mercy for you.
+I will cleanse this imperfect world.
+
+*Godliness is in my heart*
